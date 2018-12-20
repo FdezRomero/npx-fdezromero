@@ -1,0 +1,25 @@
+{
+  "name": "fdezromero",
+  "version": "1.0.0",
+  "description": "npx fdezromero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FdezRomero/npx-fdezromero.git"
+  },
+  "keywords": [
+    "fdezromero"
+  ],
+  "author": "Rodrigo Fernández (fdezromero)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FdezRomero/npx-fdezromero/issues"
+  },
+  "homepage": "https://github.com/FdezRomero/npx-fdezromero#readme",
+  "dependencies": {
+    "colorette": "^1.0.7"
+  }
+}
